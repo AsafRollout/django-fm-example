@@ -19,7 +19,7 @@ flags = Flags()
 Rox.register(flags)
 
 # Setup the SDK key
-sdk_key = '<INSERT YOUR SDK KEY HERE>'
+sdk_key = '<YOUR-SDK-KEY>'
 cancel_event = Rox.setup(sdk_key).result();
 
 # Boolean flag example
